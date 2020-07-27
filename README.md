@@ -27,16 +27,18 @@ Relative Humidity (RH) in the range of 25.56% to 100.16%
 Exhaust Vacuum (V) in the range 25.36-81.56 cm Hg
 Net hourly electrical energy output (PE) 420.26-495.76 MW
 
-## Leaderboard rank: 19
+### Leaderboard rank: 19
 
-## Final solution: Untitled.ipynb
+![power_leaderboard](https://user-images.githubusercontent.com/56091634/88561875-9b03d400-d04d-11ea-95a8-126dcbec42df.png)
 
-## Final prediction: lgb11.csv
+### Final solution: Untitled.ipynb
 
-## Local cv: 2.41
+### Final prediction: lgb11.csv
 
-## Online cv: 2.24162
+### Local cv: 2.41
 
-## Final cv (on 100% test data): 2.29947
+### Online cv: 2.24162
+
+### Final cv (on 100% test data): 2.29947
 
 
